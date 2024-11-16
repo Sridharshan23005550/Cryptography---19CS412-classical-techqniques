@@ -73,7 +73,7 @@ int main()
 ```
 
 ## OUTPUT:
-![Screenshot (62)](https://github.com/user-attachments/assets/12a295ac-1138-4b5d-a780-31b338d85ecf)
+![Screenshot (62)](https://github.com/user-attachments/assets/225312e1-ebe4-404f-a6f9-d6cefb3a6193)
 
 
 
@@ -299,7 +299,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![Screenshot (64)](https://github.com/user-attachments/assets/2975d6e5-ce89-4223-9b98-386d810b6fe3)
+![Screenshot (63)](https://github.com/user-attachments/assets/0f2b9efa-3636-4cdd-a375-c12eee794ec6)
 
 
 
@@ -397,7 +397,7 @@ int main()
 ```
 
 ## OUTPUT:
-![Screenshot (64)](https://github.com/user-attachments/assets/e8bacc7e-d0e6-4754-814f-cdf2c9fefbc6)
+![Screenshot (64)](https://github.com/user-attachments/assets/66157b03-a781-47e4-8e3a-ba6e4d632b0a)
 
 
 
@@ -485,7 +485,6 @@ int main()
 
 ## OUTPUT:
 ![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/a5f4e5a4-6c59-4a3c-a9b8-f29d790e19fb)
-
 
 
 
